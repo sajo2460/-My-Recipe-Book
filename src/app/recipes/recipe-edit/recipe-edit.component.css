@@ -1,0 +1,16 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+.btn-space {
+  margin-right: 10px;
+}
+.mgn-menu {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+.edt-recipe {
+  margin-top: 78px;
+}
